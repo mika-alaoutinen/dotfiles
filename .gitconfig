@@ -1,0 +1,7 @@
+[user]
+	email = mika.alaoutinen@gmail.com
+	name = Mika Alaoutinen
+[core]
+	excludesfile = .gitignore_global
+	autocrlf = input
+	editor = vim
